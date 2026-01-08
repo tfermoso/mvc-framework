@@ -201,7 +201,7 @@ Campos: (Gestionados por Eloquent)
 ```
 created_at
 updated_at
-``
+```
 ## ⚠️ Errores comunes
 
 * ❌ No ejecutar composer install
